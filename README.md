@@ -1,18 +1,18 @@
 # Predicting Healthcare Insurance Costs - Regression model
 Predicting Healthcare Insurance Costs - Regression model - DataCamp
 
-#Task Scenario:
+## Task Scenario:
 
 Dive into the heart of data science with a project that combines healthcare insights and predictive analytics. As a Data Scientist at a top Health Insurance company, you have the opportunity to predict customer healthcare costs using the power of machine learning. Your insights will help tailor services and guide customers in planning their healthcare expenses more effectively.
   
-#Objective:
+## Objective:
 
 Analise the dataset and find out which variables affect insuarance prices the most.
 Once found visualise data and fit varables into a regression model.
 Allowing insurance companies and policy makers to better understand what varables affect price hikes the most. 
-Furthermore, empowering key decision makers when it comes to making policy realted decisions. 
+Furthermore, empower key decision makers when it comes to making policy realted decisions. 
 
-#Skills used:
+## Skills used:
 
 Data cleaning & Preparation, Exploratory Data Analysis & Feature Engineering, Data Transformation, Data Visualisation and Modeling & Analysis 
 
