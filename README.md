@@ -1,2 +1,2 @@
-# Data-Science-Projects-
-Data Science Course Projects
+# Predicting Healthcare Insurance Costs - Regression model-
+Predicting Healthcare Insurance Costs - Regression model
